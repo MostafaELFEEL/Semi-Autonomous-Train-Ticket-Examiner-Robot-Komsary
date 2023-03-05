@@ -1,4 +1,4 @@
-# Train-Ticket-Examiner-Komsary-Semi-Autonomous-Robot
+# Semi-Autonomous Train Ticket Examiner Robot (Komsary)
 
 The semi-autonomous train ticket examiner robot is an innovative solution to the problem of checking passenger tickets and preventing unauthorized entry into train carriages. The robot utilizes advanced technologies such as vision and navigation systems, line follower algorithms, PID speed control, RFID-card reader, face detection using OpenCV vision, obstacle avoidance, and an LCD screen for easier communication.
 
