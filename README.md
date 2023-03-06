@@ -12,3 +12,6 @@ Using ROS communication protocols on a Raspberry Pi and an Arduino UNO Micro con
 Drive Link:
 
 https://drive.google.com/drive/folders/1Xaf27Kr5p3cleWZGlrXlbDX_gMHLt7CV?usp=sharing
+
+![General Specifications](https://user-images.githubusercontent.com/106331831/223109879-2c3aab1f-2e70-48aa-8389-2f8d019e8a73.png)
+
