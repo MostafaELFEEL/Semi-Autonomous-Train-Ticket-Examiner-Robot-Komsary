@@ -9,6 +9,7 @@ In addition, the robot includes obstacle avoidance sensors to prevent collisions
 Using ROS communication protocols on a Raspberry Pi and an Arduino UNO Micro controller, the robot is able to process data from the various sensors and make decisions in real-time. This makes the robot an efficient and reliable solution to the problem of checking passenger tickets and preventing unauthorized entry into train carriages.
 
 you will find more details on the following drive link
+
 Drive Link:
 
 https://drive.google.com/drive/folders/1Xaf27Kr5p3cleWZGlrXlbDX_gMHLt7CV?usp=sharing
