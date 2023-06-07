@@ -10,6 +10,10 @@ Using ROS communication protocols on a Raspberry Pi and an Arduino UNO Micro con
 
 you will find more details on the following drive link.
 
+Youtube Video Link:
+
+https://youtu.be/K75ASZQXZjY
+
 Drive Link:
 
 https://drive.google.com/drive/folders/1Xaf27Kr5p3cleWZGlrXlbDX_gMHLt7CV?usp=sharing
