@@ -1,25 +1,41 @@
 # Semi-Autonomous Train Ticket Examiner Robot (Komsary)
 
-The semi-autonomous train ticket examiner robot is an innovative solution to the problem of checking passenger tickets and preventing unauthorized entry into train carriages. The robot utilizes advanced technologies such as vision and navigation systems, line follower algorithms, PID speed control, RFID-card reader, face detection using OpenCV vision, obstacle avoidance, and an LCD screen for easier communication.
+## Overview
 
-The vision and navigation systems enable the robot to detect and track passenger movement and identify when passengers present their tickets for verification. The line follower algorithms and PID speed control help the robot navigate through the train carriages smoothly and safely. The RFID-card reader allows passengers to scan their tickets easily, while face detection technology ensures that tickets are being used by the correct person.
+The Komsary robot revolutionizes the traditional approach to train ticket verification by offering a semi-autonomous solution. This cutting-edge robot integrates state-of-the-art technologies, including vision systems, navigation algorithms, RFID-card readers, and obstacle avoidance mechanisms, to ensure efficient and secure ticket verification.
 
-In addition, the robot includes obstacle avoidance sensors to prevent collisions with passengers and other objects in the train carriages. The LCD screen provides easy communication between the robot and passengers, allowing for a more seamless and automated ticket checking process.
+---
 
-Using ROS communication protocols on a Raspberry Pi and an Arduino UNO Micro controller, the robot is able to process data from the various sensors and make decisions in real-time. This makes the robot an efficient and reliable solution to the problem of checking passenger tickets and preventing unauthorized entry into train carriages.
+## Key Features
 
-you will find more details on the following drive link.
+### Vision and Navigation Systems
+Equipped with advanced vision systems, Komsary efficiently detects and tracks passenger movement, facilitating real-time ticket verification.
 
-Youtube Video Link:
+### Line Follower Algorithms & PID Speed Control
+The robot utilizes precise line follower algorithms coupled with PID speed control, ensuring smooth and safe navigation within train carriages.
 
-https://www.youtube.com/watch?v=Pm2bBS5zYts&t=15s
+### RFID-Card Reader
+Passengers can easily scan their tickets using the built-in RFID-card reader, streamlining the ticket verification process.
 
-Drive Link:
+### Face Detection with OpenCV
+Integrated face detection technology ensures ticket authentication by matching tickets with the correct individuals.
 
-https://drive.google.com/drive/folders/1Xaf27Kr5p3cleWZGlrXlbDX_gMHLt7CV?usp=sharing
+### Obstacle Avoidance & LCD Screen
+Komsary features obstacle avoidance sensors and an LCD screen for seamless communication, preventing collisions and enhancing user interaction.
+
+---
+
+## Technical Specifications
+
+The robot operates using ROS communication protocols, leveraging a Raspberry Pi and an Arduino UNO Microcontroller. This setup enables real-time data processing from various sensors, ensuring the robot's efficiency and reliability.
 
 ![General Specifications](https://user-images.githubusercontent.com/106331831/223109879-2c3aab1f-2e70-48aa-8389-2f8d019e8a73.png)
 
-![image](https://github.com/MostafaELFEEL/Semi-Autonomous-Train-Ticket-Examiner-Robot-Komsary/assets/106331831/6368d2d5-ecd8-4589-a746-92f8a3e4cdad)
+---
 
+## Resources
 
+- **Watch the Demonstration Video:** [YouTube Link](https://www.youtube.com/watch?v=Pm2bBS5zYts&t=15s)
+- **Additional Details:** [Drive Link](https://drive.google.com/drive/folders/1Xaf27Kr5p3cleWZGlrXlbDX_gMHLt7CV?usp=sharing)
+
+![Robot Image](https://github.com/MostafaELFEEL/Semi-Autonomous-Train-Ticket-Examiner-Robot-Komsary/assets/106331831/6368d2d5-ecd8-4589-a746-92f8a3e4cdad)
